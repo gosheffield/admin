@@ -26,6 +26,7 @@
 ### [November 2018](#11.2018)
 
 * Why making silly things is awesome - Lucy Davinhart  
+[Slides & Speaker Notes](https://lmhd.me/talk/silly)
 
 * Helm git ops - Mark Gascoyne  
 
