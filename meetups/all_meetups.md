@@ -1,3 +1,24 @@
+### [March 2019](#03.2019)
+* Google Cloud Functions with Go - Daniel Alderman  
+[Slides](https://docs.google.com/presentation/d/1isibjSr1NruAYhuClbPnBLkvhGMXDccnDEtO-xdBy5E/edit)  
+[Repo](https://github.com/Daniel-Alderman77/go-cloud-functions-talk)  
+
+* Live-coding a "Go" Compiler with LLVM - Peter Waller  
+[Repo](https://github.com/pwaller/go2ll-talk)  
+
+* An infosec overview of Go - Ross Prendergast
+
+### [February 2019](#02.2019)
+
+* Testing your Go commands with testscripts - Roger Peppe  
+[Slides](https://go-talks.appspot.com/github.com/rogpeppe/talks/testscript.talk/testscript.slide#1)  
+[Repo](https://godoc.org/github.com/rogpeppe/go-internal/testscript)
+
+* Concurrency vs Parallelism - Jack Adams
+
+* Write less code, generate more - Paul Jolly  
+[Slides](https://go-talks.appspot.com/github.com/myitcv/talks/2019-02-07-code-generation/main.slide#1)
+
 ### [January 2019](#01.2019)
 
 * From C to Go - Daniel Finneran  
@@ -38,6 +59,8 @@
 * Porting a Shell Script to Go - Tom Hudson  
 
 * Kubernetes Whack-A-Mole - Daniel Alderman  
+[Repo](https://github.com/Daniel-Alderman77/kubernetes-whack-a-mole)  
+[Slides](https://docs.google.com/presentation/d/1WlFDW8WYWjAN3MlqdT9Q6GplFSY7wEIgjCvYb3mZ3uo/edit#slide=id.p)  
 
 * Contributing to the Go project - Daniel Martí  
 [Slides](https://docs.google.com/presentation/d/1PouU8NoyLYwdh2Cw4RlOesJJhu7peCMi2NkXpLX4F5s/edit?usp=sharing)
