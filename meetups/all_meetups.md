@@ -1,6 +1,6 @@
 ### [March 2019](#03.2019)
 * Google Cloud Functions with Go - Daniel Alderman  
-[Slides](https://docs.google.com/presentation/d/1isibjSr1NruAYhuClbPnBLkvhGMXDccnDEtO-xdBy5E/edit)
+[Slides](https://docs.google.com/presentation/d/1isibjSr1NruAYhuClbPnBLkvhGMXDccnDEtO-xdBy5E/edit)  
 [Repo](https://github.com/Daniel-Alderman77/go-cloud-functions-talk)  
 
 * Live-coding a "Go" Compiler with LLVM - Peter Waller  
@@ -11,12 +11,12 @@
 ### [February 2019](#02.2019)
 
 * Testing your Go commands with testscripts - Roger Peppe  
-[Slides](https://go-talks.appspot.com/github.com/rogpeppe/talks/testscript.talk/testscript.slide#1)
+[Slides](https://go-talks.appspot.com/github.com/rogpeppe/talks/testscript.talk/testscript.slide#1)  
 [Repo](https://godoc.org/github.com/rogpeppe/go-internal/testscript)
 
 * Concurrency vs Parallelism - Jack Adams
 
-* Write less code, generate more - Paul Jolly
+* Write less code, generate more - Paul Jolly  
 [Slides](https://go-talks.appspot.com/github.com/myitcv/talks/2019-02-07-code-generation/main.slide#1)
 
 ### [January 2019](#01.2019)
