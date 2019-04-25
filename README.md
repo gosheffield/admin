@@ -1,8 +1,8 @@
 # Admin
 
-GoSheffield is a non-profit monthly meetup in Sheffield about the [Go Programming  
-Language](https://golang.org/). Organised by the local community, we focus  
-on short technical talks and fostering the growth of Go in the area. 
+GoSheffield is a non-profit monthly meetup in Sheffield about the [Go Programming
+Language](https://golang.org/). Organised by the local community, we focus
+on short technical talks and fostering the growth of Go in the area.
 
 Our events follow the Go Community [Code of Conduct](https://golang.org/conduct).
 
