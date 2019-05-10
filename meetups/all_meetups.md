@@ -1,3 +1,8 @@
+### [April 2019](#04.2019)
+
+* Going to Go - Glen Mailer
+[Slides](https://glenjamin.github.io/going-to-go/index.html)
+
 ### [March 2019](#03.2019)
 * Google Cloud Functions with Go - Daniel Alderman  
 [Slides](https://docs.google.com/presentation/d/1isibjSr1NruAYhuClbPnBLkvhGMXDccnDEtO-xdBy5E/edit)  
