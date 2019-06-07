@@ -1,3 +1,12 @@
+### [June 2019](#06.2019)
+
+* Game of Bandersphinx - Ian Selkirk  
+
+* Speaking Less Sharply in Go - Charles Forsyth
+[Slides](https://docs.google.com/presentation/d/1J3r4x-cZxWRakDQVtsP8HRop2Eg8TxSK3q9DOG8eZMQ/edit?usp=sharing)
+
+* What's coming in Go 1.13 - Daniel Martí
+
 ### [May 2019](#05.2019)
 
 * Go - Lost in the Stacks - Alex Whitney
