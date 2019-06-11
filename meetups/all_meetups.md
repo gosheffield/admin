@@ -1,6 +1,8 @@
 ### [June 2019](#06.2019)
 
 * Game of Bandersphinx - Ian Selkirk  
+[Slides](https://1drv.ms/p/s!AkV6K4WpJZjaiflQRr1Jalo72A7AmQ?e=2dXQhv)  
+[Repo](https://repl.it/@PyBoy99/Game-of-Bandersphinx)
 
 * Speaking Less Sharply in Go - Charles Forsyth
 [Slides](https://docs.google.com/presentation/d/1J3r4x-cZxWRakDQVtsP8HRop2Eg8TxSK3q9DOG8eZMQ/edit?usp=sharing)
