@@ -3,6 +3,7 @@
 * Singleflight: Don’t Repeat Yourself - Ahmet Soormally  
 
 * Go With Benthos - Andrei Simionescu  
+[Slides](https://gist.github.com/andreis/6c1689a8e95e74b33e07296d397fc6d4)  
 
 * Docker with Go and Postgres - Wei Zhang  
 [Slides](https://docs.google.com/presentation/d/1xZmZq85D3HRKnV1TYfSlawywmZwBxv9XYi4jWqmMLgU/edit?usp=sharing)
