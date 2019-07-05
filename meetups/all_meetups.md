@@ -1,3 +1,12 @@
+### [July 2019](#07.2019)  
+
+* Singleflight: Don’t Repeat Yourself - Ahmet Soormally  
+
+* Go With Benthos - Andrei Simionescu  
+
+* Docker with Go and Postgres - Wei Zhang  
+[Slides](https://docs.google.com/presentation/d/1xZmZq85D3HRKnV1TYfSlawywmZwBxv9XYi4jWqmMLgU/edit?usp=sharing)
+
 ### [June 2019](#06.2019)
 
 * Game of Bandersphinx - Ian Selkirk  
@@ -14,25 +23,26 @@
 * Go - Lost in the Stacks - Alex Whitney
 [Repo](https://github.com/adwhit/lost-in-the-stacks)
 
-* A month with Go - Thomas Smith
+* A month with Go - Thomas Smith  
+[Slides](https://tomm.us/talks/a-month-with-go.pdf)
 
 * Reimagining gofmt for Go 2.0 - Daniel Martí
 [Slides](https://docs.google.com/presentation/d/14HcyqkNcQ48uyjM_Sas3HxO1LbFvykcfKksFPHaaEcI/edit)
 
 ### [April 2019](#04.2019)
 
-* Tales of a beginner - Blair Garrett
+* Tales of a beginner - Blair Garrett  
+[Slides](https://docs.google.com/presentation/d/10T-QWDosmw0DUsrDQPDzmyv0k81k3oYhEhGQ_5wx9SA/edit?usp=sharing)
 
 * Going to Go - Glen Mailer
 [Slides](https://glenjamin.github.io/going-to-go/index.html)
 
-* Simplifying data visualisation - Karen Flower
+* Simplifying data visualisation - Karen Flower  
+[Slides](http://karenflower.co/slides/simplifying-data-visualisation.pdf)
 
 * Event driven programming - Jack Adams
 
 ### [March 2019](#03.2019)
-
-* Introduction to NATS - Viktor Poluksht
 
 * Google Cloud Functions with Go - Daniel Alderman
 [Slides](https://docs.google.com/presentation/d/1isibjSr1NruAYhuClbPnBLkvhGMXDccnDEtO-xdBy5E/edit)
