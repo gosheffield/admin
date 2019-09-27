@@ -28,4 +28,3 @@ Our events follow the Go Community [Code of Conduct](https://golang.org/conduct)
 
 * We help refine your topic and presentation
 * Register your interest via [this short form](https://goo.gl/forms/1VAAejXiA69bXXCP2)!
-* Please feel free to refer to MC's slides for topic ideas: [MC slides 2019](https://drive.google.com/drive/folders/19r-T_rNVIAxZz0i54vxd6a_nQAixiqj8?usp=sharing) and [MC slides 2018](https://drive.google.com/drive/folders/1ALIWCIzv6NFJbJ22rU7FP5Tiu8lrgy-F?usp=sharing) 
