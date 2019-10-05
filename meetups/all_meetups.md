@@ -1,3 +1,20 @@
+## All MC [slides](https://drive.google.com/drive/folders/1Rw8IOTb_8e7YXvBuGZQ41eg9zgkMVRj9?usp=sharing)
+
+## All meetup talks
+
+### [Semptember 2019](#09.2019)  
+
+* Contract Driven Development: From Go to your Organisation - Liam Bennett  
+[Slides](https://drive.google.com/file/d/1T25mhCqf0YtbI8T5JjphAMOHNUCYu2Xw/view?usp=sharing)  
+
+* Go Gotchas - Mike Kaperys  
+[Slides](https://speakerdeck.com/kaperys/go-gotchas)  
+
+* Live coding a patch to Go - Daniel Martí  
+
+### [August 2019](#08.2019) 
+* Summer break
+
 ### [July 2019](#07.2019)  
 
 * Singleflight: Don’t Repeat Yourself - Ahmet Soormally  
