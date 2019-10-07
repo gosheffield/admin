@@ -2,6 +2,16 @@
 
 ## All meetup talks
 
+### [October 2019](#10.2019)  
+
+* Let's Go tiny with tinyGo - Dimas Prawira  
+[Slides](https://docs.google.com/presentation/d/10ObNlepSjgoRMGGmt19TkgCsSZ9CTGWhBIZbTLotB2Y/edit#slide=id.p)  
+
+* Distributed Spanning Trees - Charles Forsyth  
+
+* What's coming in Go 1.14 - Daniel Martí  
+[Slides](https://docs.google.com/presentation/d/1HfIwlVTmVWQk94OLKfTGvXpQxyp0U4ywG1u5j2tjiuE/edit#slide=id.g550f852d27_228_0)  
+
 ### [Semptember 2019](#09.2019)  
 
 * Contract Driven Development: From Go to your Organisation - Liam Bennett  
