@@ -4,7 +4,9 @@
 
 ### [November 2019](#11.2019)
 
-* What I've learned writing Go for a year [Slides](https://docs.google.com/presentation/d/1gGiTppnsQYrW6-37m7ZBL5d1sJ7UgHOhZCfesKWM2Pk/edit?usp=sharing)
+* What I've learned writing Go for a year - Hayden Faulds [Slides](https://docs.google.com/presentation/d/1gGiTppnsQYrW6-37m7ZBL5d1sJ7UgHOhZCfesKWM2Pk/edit?usp=sharing)
+
+* Golang Q&A - Todd McLeod
 
 ### [October 2019](#10.2019)  
 
