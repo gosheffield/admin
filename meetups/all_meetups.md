@@ -2,6 +2,10 @@
 
 ## All meetup talks
 
+### [November 2019](#11.2019)
+
+* What I've learned writing Go for a year [Slides](https://docs.google.com/presentation/d/1gGiTppnsQYrW6-37m7ZBL5d1sJ7UgHOhZCfesKWM2Pk/edit?usp=sharing)
+
 ### [October 2019](#10.2019)  
 
 * Let's Go tiny with tinyGo - Dimas Prawira  
