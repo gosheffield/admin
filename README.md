@@ -21,7 +21,7 @@ Our events follow the Go Community [Code of Conduct](https://golang.org/conduct)
 
 ### Records
 
-* [Past meetups](meetups/all_meetups.md)
+* [Past meetups](meetups/README.md)
 * [Organiser meetings notes](meeting_notes/)
 
 ### Speaking at GoSheffield
