@@ -2,9 +2,17 @@
 
 ## All meetup talks
 
+### [December 2019](#12.2019)
+* GRPC: A powerful way to improve your APIs - Bruno Luiz Silva  
+[Slides](https://docs.google.com/presentation/d/1GlXCPojeCd7Y2jJKjV2lQQ_SXU-srf1ZX8dCeMxNhlY/edit?usp=sharing)
+
+* Go with Cobra  - Paul Sweeney  
+[slides](https://send.firefox.com/download/8a99921cc7edef94/#qrE0ov9dsY8UYowfK4LkKQ)
+
 ### [November 2019](#11.2019)
 
-* What I've learned writing Go for a year - Hayden Faulds [Slides](https://docs.google.com/presentation/d/1gGiTppnsQYrW6-37m7ZBL5d1sJ7UgHOhZCfesKWM2Pk/edit?usp=sharing)
+* What I've learned writing Go for a year - Hayden Faulds  
+[Slides](https://docs.google.com/presentation/d/1gGiTppnsQYrW6-37m7ZBL5d1sJ7UgHOhZCfesKWM2Pk/edit?usp=sharing)
 
 * Golang Q&A - Todd McLeod
 
