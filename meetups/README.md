@@ -10,6 +10,7 @@
 [Slides](http://goto.lmhd.me/talks/go-random)
 
 * How CircleCI uses CircleCI for go - Glen Mailer
+[Slides](https://docs.google.com/presentation/d/17CiJl3_U9TJu4Aweh6NFLH_vVzUCS1oVGOsZc3m747E/edit?usp=sharing)
 
 ### [December 2019](#12.2019)
 * GRPC: A powerful way to improve your APIs - Bruno Luiz Silva  
