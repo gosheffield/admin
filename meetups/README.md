@@ -2,6 +2,15 @@
 
 ## All meetup talks
 
+### [January 2020](#01.2020)
+
+* Strings, strings, strings - Jack Adams
+
+* How Go Does Randomness - Lucy Davinhart  
+[Slides](http://goto.lmhd.me/talks/go-random)
+
+* How CircleCI uses CircleCI for go - Glen Mailer
+
 ### [December 2019](#12.2019)
 * GRPC: A powerful way to improve your APIs - Bruno Luiz Silva  
 [Slides](https://docs.google.com/presentation/d/1GlXCPojeCd7Y2jJKjV2lQQ_SXU-srf1ZX8dCeMxNhlY/edit?usp=sharing)
