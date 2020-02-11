@@ -7,7 +7,7 @@
 * Kafka and Go - Ax Man
 [Slides](https://drive.google.com/file/d/1Tk7WV4mKDUr5p6JJLMeBD3-5Ax03FI_V/view?usp=sharing)
 
-* Go and gRPC: why and how - Andrei Simionescu [Slides](./assets/2020-02-andrei)
+* Go and gRPC: why and how - Andrei Simionescu [Slides](https://talks.godoc.org/github.com/andreis/talks/200206-sheffield-go-meetup/talk.slide)
 
 * A Go code obfuscator from scratch - Daniel Martí
 
