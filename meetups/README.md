@@ -2,6 +2,15 @@
 
 ## All meetup talks
 
+### [February 2020](#02.2020)
+
+* Kafka and Go - Ax Man
+[Slides](https://drive.google.com/file/d/1Tk7WV4mKDUr5p6JJLMeBD3-5Ax03FI_V/view?usp=sharing)
+
+* Go and gRPC: why and how - Andrei Simionescu
+
+* A Go code obfuscator from scratch - Daniel Martí
+
 ### [January 2020](#01.2020)
 
 * Strings, strings, strings - Jack Adams
