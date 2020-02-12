@@ -10,6 +10,7 @@
 * Go and gRPC: why and how - Andrei Simionescu [Slides](https://talks.godoc.org/github.com/andreis/talks/200206-sheffield-go-meetup/talk.slide)
 
 * A Go code obfuscator from scratch - Daniel Martí
+[Slides](https://drive.google.com/open?id=1EySDaexiiVgcmk66iVxrX_-LaLuaxqMcwMwMBAOaZZ4)
 
 ### [January 2020](#01.2020)
 
