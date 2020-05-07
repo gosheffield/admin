@@ -2,6 +2,12 @@
 
 ## All meetup talks
 
+### [May 2020](#05.2020)
+* Build your own bit.ly - Marc Cohen [Slides](mco.fyi/links)
+
+### [April 2020](#04.2020)
+* How we Scale AWS with Go - Glen Mailer
+
 ### [March 2020](#03.2020)
 
 * Go-ing Quickly With GoBuffalo - Will Gough [Slides](https://speakerdeck.com/williamhgough/go-ing-quickly-with-gobuffalo)
