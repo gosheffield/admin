@@ -2,6 +2,9 @@
 
 ## All meetup talks
 
+### [June 2020](#06.2020)
+* Fixing your (OS) imaging problem in Go - Dan Finneran [slides](https://plndr.io/fixing_your_image_problem_with_go.pdf)
+
 ### [May 2020](#05.2020)
 * Build your own bit.ly - Marc Cohen [Slides](mco.fyi/links)
 
