@@ -9,7 +9,7 @@
 * Build your own bit.ly - Marc Cohen [Slides](mco.fyi/links)
 
 ### [April 2020](#04.2020)
-* How we Scale AWS with Go - Glen Mailer [Slides]()
+* How we Scale AWS with Go - Glen Mailer [Slides](https://github.com/gosheffield/admin/files/4742141/Scaling.AWS.from.Go.pdf)
 
 ### [March 2020](#03.2020)
 
