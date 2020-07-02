@@ -3,8 +3,8 @@
 ## All meetup talks
 
 ### [July 2020](#07.2020)
-* CLI-based automation with Go - Stuart Murray [slide](https://drive.google.com/file/d/1RHbc5zGIv3lCF8bHas-i462pODkcqUnd/view?usp=sharing) [repo](https://github.com/stoovon/utilitybelt)
-* Advanced Go testing tips - Daniel Martí
+* CLI-based automation with Go - Stuart Murray [slides](https://drive.google.com/file/d/1RHbc5zGIv3lCF8bHas-i462pODkcqUnd/view?usp=sharing) [repo](https://github.com/stoovon/utilitybelt)
+* Advanced Go testing tips - Daniel Martí [code](https://github.com/mvdan/talks/tree/HEAD/2020/testing-tips)
 
 ### [June 2020](#06.2020)
 * Fixing your (OS) imaging problem in Go - Dan Finneran [slides](https://plndr.io/fixing_your_image_problem_with_go.pdf)
