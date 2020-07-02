@@ -2,8 +2,13 @@
 
 ## All meetup talks
 
+### [July 2020](#07.2020)
+* CLI-based automation with Go - Stuart Murray [slide](https://drive.google.com/file/d/1RHbc5zGIv3lCF8bHas-i462pODkcqUnd/view?usp=sharing) [repo](https://github.com/stoovon/utilitybelt)
+* Advanced Go testing tips - Daniel Martí
+
 ### [June 2020](#06.2020)
 * Fixing your (OS) imaging problem in Go - Dan Finneran [slides](https://plndr.io/fixing_your_image_problem_with_go.pdf)
+* Function inlining - Valentin Deleplace
 
 ### [May 2020](#05.2020)
 * Build your own bit.ly - Marc Cohen [Slides](mco.fyi/links)
