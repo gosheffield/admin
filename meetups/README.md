@@ -8,7 +8,7 @@
 
 ### [June 2020](#06.2020)
 * Fixing your (OS) imaging problem in Go - Dan Finneran [slides](https://plndr.io/fixing_your_image_problem_with_go.pdf)
-* Function inlining - Valentin Deleplace
+* Function inlining - Valentin Deleplace [repo](https://github.com/Deleplace/presentations/tree/master/2020/06/04/inlining)
 
 ### [May 2020](#05.2020)
 * Build your own bit.ly - Marc Cohen [Slides](mco.fyi/links)
