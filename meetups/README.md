@@ -2,6 +2,10 @@
 
 ## All meetup talks
 
+### [September 2020](#09.2020)
+* Performance Analysis in Go - Richard Pickering [blog](https://www.richpickering.com/blog_posts/5) [repo](https://github.com/rpickz/go-bottlenecks/tree/master/01_hot_loop)
+* Idiomatic Go (1) - Wei Zhang [slides](https://docs.google.com/presentation/d/11qIC4EcUaDY2zCLlfzNdpFjPH4FJzvPgXDHfCSdcK-8/edit?usp=sharing)
+
 ### [July 2020](#07.2020)
 * CLI-based automation with Go - Stuart Murray [slides](https://drive.google.com/file/d/1RHbc5zGIv3lCF8bHas-i462pODkcqUnd/view?usp=sharing) [repo](https://github.com/stoovon/utilitybelt)
 * Advanced Go testing tips - Daniel Martí [code](https://github.com/mvdan/talks/tree/HEAD/2020/testing-tips)
