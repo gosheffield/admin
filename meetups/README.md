@@ -2,6 +2,11 @@
 
 ## All meetup talks
 
+### [October 2020](#10.2020)
+* Scientific Debugging - Oliver Powell
+* Generics Draft Proposal Review - Bill Kennedy [repo](https://github.com/ardanlabs/gotraining/tree/master/topics/go/generics)
+
+
 ### [September 2020](#09.2020)
 * Performance Analysis in Go - Richard Pickering [blog](https://www.richpickering.com/blog_posts/5) [repo](https://github.com/rpickz/go-bottlenecks/tree/master/01_hot_loop)
 * Idiomatic Go (1) - Wei Zhang [slides](https://docs.google.com/presentation/d/11qIC4EcUaDY2zCLlfzNdpFjPH4FJzvPgXDHfCSdcK-8/edit?usp=sharing)
