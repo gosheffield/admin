@@ -3,7 +3,7 @@
 ## All meetup talks
 
 ### [October 2020](#10.2020)
-* Scientific Debugging - Oliver Powell
+* Scientific Debugging - Oliver Powell [slides](https://drive.google.com/file/d/11egI2AVqQeRqUS8JT1nO8HLXs70lRf7I/view?usp=sharing)
 * Generics Draft Proposal Review - Bill Kennedy [repo](https://github.com/ardanlabs/gotraining/tree/master/topics/go/generics)
 
 
